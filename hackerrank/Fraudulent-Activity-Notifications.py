@@ -14,8 +14,6 @@ Copyright: MIT
 # https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting
 #
 
-# test git cache
-
 # counting sort
 
 # mp is the position we want to find in the array
