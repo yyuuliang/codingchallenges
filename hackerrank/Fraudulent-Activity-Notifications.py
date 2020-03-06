@@ -38,7 +38,7 @@ def findmm(ca,d):
         m2=findmedian(ca,d/2-1)
         m=(m1+m2)/2
     return m
-
+ 
 def activityNotifications(expenditure, d):
     # generate the first count array
     ca =[0]*(max(expenditure)+1)
