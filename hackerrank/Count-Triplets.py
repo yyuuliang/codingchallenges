@@ -13,6 +13,14 @@ Copyright: MIT
 # Complete the countTriplets function below.
 # https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
 
+# Sample Input 0
+
+# 4 2
+# 1 2 2 4
+# Sample Output 0
+
+# 2
+
 
 import math
 from collections import defaultdict

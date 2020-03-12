@@ -15,6 +15,14 @@ Copyright: MIT
 # https://www.hackerrank.com/challenges/special-palindrome-again/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings
 #
 
+# Sample Input 0
+
+# 5
+# asasd
+# Sample Output 0
+
+# 7 
+
 # con number sum
 def conp(n):
     return int(n*(n+1)/2)

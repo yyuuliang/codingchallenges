@@ -13,6 +13,16 @@ Copyright: MIT
 # https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
 
 
+# Sample Input 1
+
+# 2
+# ifailuhkqq
+# kkkk
+# Sample Output 1
+
+# 3
+# 10
+
 def sherlockAndAnagrams(s):
     alld={}
     for i in range(len(s)):

@@ -16,6 +16,14 @@ Copyright: MIT
 
 # counting sort
 
+# Sample Input 0
+
+# 9 5
+# 2 3 4 2 3 6 8 4 5
+# Sample Output 0
+
+# 2
+
 # mp is the position we want to find in the array
 # here it is the middle one or each of the middle two
 def findmedian(ca,mp):

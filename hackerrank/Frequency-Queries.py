@@ -15,6 +15,19 @@ Copyright: MIT
 # https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
 #
 
+
+# Sample Input 1
+
+# 4
+# 3 4
+# 2 1003
+# 1 16
+# 3 1
+# Sample Output 1
+
+# 0
+# 1
+
 import math
 from collections import defaultdict
 

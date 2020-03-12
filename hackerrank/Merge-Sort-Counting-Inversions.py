@@ -16,6 +16,18 @@ Copyright: MIT
 
 # merge sort
 
+# Sample Input
+
+# 2  
+# 5  
+# 1 1 1 2 2  
+# 5  
+# 2 1 3 1 2
+# Sample Output
+
+# 0  
+# 4   
+
 def countInversions(a):
     if len(a)>1:
         m=int(len(a)/2)

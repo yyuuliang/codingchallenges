@@ -13,6 +13,14 @@ Copyright: MIT
 # Complete the commonChild function below.
 # https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
 
+# Sample Input
+
+# HARRY
+# SALLY
+# Sample Output
+
+#  2
+
 # regular running time, this will pass all tests in PYPY3
 def commonChild(s1, s2):
     m=len(s1)+1

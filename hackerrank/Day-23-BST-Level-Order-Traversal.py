@@ -13,6 +13,19 @@ Copyright: MIT
 # Day 23: BST Level-Order Traversal
 # https://www.hackerrank.com/challenges/30-binary-trees/problem
 
+# Sample Input
+
+# 6
+# 3
+# 5
+# 4
+# 7
+# 2
+# 1
+# Sample Output
+
+# 3 2 5 1 4 7 
+
 import sys
 
 class Node:
